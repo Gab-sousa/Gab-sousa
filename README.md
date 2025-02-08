@@ -1,7 +1,7 @@
 <br clear="both">
 <br clear="both">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F73168&center=true&width=1000&lines=HELLO%2C+MY+NAME+is+Gabriel+Sousa;I'm+16+years+old;I'm+from+Brazil;Studying+Systems+Development+at+ETEC;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F73168&center=true&width=1000&lines=HELLO%2C+MY+NAME+is+Gabriel+Sousa;I'm+17+years+old;I'm+from+Brazil;Studying+Systems+Development+at+ETEC;Welcome!)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
