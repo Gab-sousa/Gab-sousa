@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Gabriel Sousa — Desenvolvedor Back-end</title>
+  <desc id="desc">Banner preto com detalhes em roxo e rosa apresentando Gabriel Sousa.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05030a"/>
+      <stop offset="0.52" stop-color="#12051f"/>
+      <stop offset="1" stop-color="#07030d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="0.5" stop-color="#d946ef"/>
+      <stop offset="1" stop-color="#ff4da6"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#d946ef" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#d946ef" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+  <circle cx="1080" cy="40" r="190" fill="url(#glow)" filter="url(#soft)"/>
+  <circle cx="90" cy="285" r="150" fill="#8b5cf6" opacity=".13" filter="url(#soft)"/>
+  <path d="M0 264 C250 220 390 310 650 252 S980 208 1200 258 V300 H0Z" fill="url(#accent)" opacity=".12"/>
+  <rect x="86" y="67" width="66" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="86" y="146" fill="#f8f4ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="750" letter-spacing="-1">Gabriel Sousa</text>
+  <text x="88" y="192" fill="#d8b4fe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="500">BACK-END • PYTHON • ENGENHARIA DE SOFTWARE</text>
+  <text x="89" y="228" fill="#a89bb5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Transformando aprendizado em soluções úteis.</text>
+  <g transform="translate(1015 116)" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-50 0 -78 28 -50 56M50 0 78 28 50 56M16-20 -16 76"/>
+  </g>
+  <rect x="1.5" y="1.5" width="1197" height="297" rx="20.5" fill="none" stroke="url(#accent)" stroke-opacity=".42" stroke-width="3"/>
+</svg>
